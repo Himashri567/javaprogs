@@ -1,3 +1,4 @@
+import java.util.*;
 class Prime
 {
   private int n;
